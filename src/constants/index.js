@@ -197,7 +197,7 @@ const projects = [
     ],
     image: carhub,
     source_code_link: "https://github.com/jaredNielson33/cars_showcase",
-  },
+  }
 ];
 
 export { technologies, experiences, projects };
